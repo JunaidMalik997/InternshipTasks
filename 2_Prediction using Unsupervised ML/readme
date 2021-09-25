@@ -1,1 +1,5 @@
+K-Means Clustering Algorithm Task
 
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
+
+It can be done using the Elbow Method of K_means clustering where we try to look for the elbow in different k values. The k value at which the elbow is formed is the optimum value of k.
